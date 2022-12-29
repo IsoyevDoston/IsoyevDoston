@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @IsoyevDoston
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me isoyevdoston20@gmail.com 
+- 🌱 I’m currently learning Python intermedite, Ml, DataScience
+- 📫 How to reach me isoyevdoston1@gmail.com 
 
 <!---
 IsoyevDoston/IsoyevDoston is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
