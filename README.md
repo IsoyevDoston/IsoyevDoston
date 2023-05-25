@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Python-Junior-blue" alt="Python">
   <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure%20%7C%20GCP-yellow" alt="Cloud">
   <img src="https://img.shields.io/badge/Databases-SQL%20%7C%20PostgreSQL-orange" alt="Databases">
-  <img src="https://img.shields.io/badge/Backend-Django%20%7C%20Flask-green" alt="Backend">
+  <img src="https://img.shields.io/badge/Backend-Django-green" alt="Backend">
 
 </div>
 
@@ -16,10 +16,10 @@
 ### 🌟 What I'm Currently Learning
 
 - Python development for versatile and efficient solutions.
-- Exploring the exciting world of ML, Data Science, and Machine Learning.
+- Exploring the exciting world of Data Science, and Machine Learning.
 - Building robust backends for dynamic and interactive websites.
 - Embracing the power of cloud technologies like AWS, Azure, and GCP.
-- Delving into database design and management with SQL and NoSQL.
+- Delving into database design and management with SQL and PostgreSQL.
 
 ---
 
