@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IsoyevDoston
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning Python intermedite, ML, DataScience
+- 🌱 I’m currently learning Python, ML, DataScience
 - 📫 How to reach me isoyevdoston1@gmail.com 
 
 <!---
