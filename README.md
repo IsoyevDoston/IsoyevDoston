@@ -4,10 +4,10 @@
   <h3> Welcome to Doston's GitHub Profile! </h3>
 
   <!-- Add badges to showcase your skills or achievements -->
-  <img src="https://img.shields.io/badge/Python-Expert-blue" alt="Python">
+  <img src="https://img.shields.io/badge/Python-Junior-blue" alt="Python">
   <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure%20%7C%20GCP-yellow" alt="Cloud">
-  <img src="https://img.shields.io/badge/Databases-SQL%20%7C%20NoSQL-orange" alt="Databases">
-  <img src="https://img.shields.io/badge/Backend-Django%20%7C%20Flask%20%7C%20Node.js-green" alt="Backend">
+  <img src="https://img.shields.io/badge/Databases-SQL%20%7C%20PostgreSQL-blue" alt="Databases">
+  <img src="https://img.shields.io/badge/Backend-Django%20%7C%20Flask" alt="Backend">
 
 </div>
 
