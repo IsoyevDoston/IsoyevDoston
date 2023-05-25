@@ -6,8 +6,8 @@
   <!-- Add badges to showcase your skills or achievements -->
   <img src="https://img.shields.io/badge/Python-Junior-blue" alt="Python">
   <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure%20%7C%20GCP-yellow" alt="Cloud">
-  <img src="https://img.shields.io/badge/Databases-SQL%20%7C%20PostgreSQL-blue" alt="Databases">
-  <img src="https://img.shields.io/badge/Backend-Django%20%7C%20Flask" alt="Backend">
+  <img src="https://img.shields.io/badge/Databases-SQL%20%7C%20PostgreSQL-orange" alt="Databases">
+  <img src="https://img.shields.io/badge/Backend-Django%20%7C%20Flask-green" alt="Backend">
 
 </div>
 
