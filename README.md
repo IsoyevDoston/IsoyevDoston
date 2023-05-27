@@ -23,6 +23,12 @@
 
 ---
 
+### 🚀 Projects I'm Excited About
+
+- [Forest fire prevention](https://github.com/IsoyevDoston/ForestFirePrevention):My project at the Hackathon
+
+---
+
 ### 💡 Looking for Collaborations
 
 I'm always eager to collaborate and work on exciting projects. If you have any interesting ideas or opportunities, feel free to reach out. Let's create something awesome together!
