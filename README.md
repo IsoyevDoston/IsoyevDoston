@@ -37,7 +37,7 @@ I'm always eager to collaborate and work on exciting projects. If you have any i
 
 ### 📫 Let's Connect
 
-- Find me on [LinkedIn](isoyev-doston-a6a59525b) for professional networking.
+- Find me on [LinkedIn](https://www.linkedin.com/in/isoyev-doston-a6a59525b) for professional networking.
 - Drop me an email at [packardcod1221@gmail.com](packardcod1221@gmail.com) to get in touch.
 - Explore my other projects on [GitHub](https://github.com/IsoyevDoston).
 
