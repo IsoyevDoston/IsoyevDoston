@@ -17,12 +17,12 @@
 
 ---
 
-## 🔴 **The One** - Neo Dido
+## 🔴 **The One** - Dido
 
 ```javascript
-const neo_dido = {
-    name: "Dido (Dave in professional mode)",
-    role: "Matrix Navigator | Python Developer | Cloud Explorer",
+const dido = {
+    name: "Dido",
+    role: "Python Developer | Cloud Explorer",
     location: "The Digital Realm",
     school: "School 21 - fidelach@student.21-school.ru",
     fuel: "☕ Coffee",
