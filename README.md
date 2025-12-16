@@ -1,12 +1,3 @@
-# ```
-# ██████╗ ██╗██████╗  ██████╗ 
-# ██╔══██╗██║██╔══██╗██╔═══██╗
-# ██║  ██║██║██║  ██║██║   ██║
-# ██║  ██║██║██║  ██║██║   ██║
-# ██████╔╝██║██████╔╝╚██████╔╝
-# ╚═════╝ ╚═╝╚═════╝  ╚═════╝ 
-# ```
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Welcome+to+the+Matrix...;I+am+Dido+%7C+Neo+of+Code;Wake+up%2C+follow+the+white+rabbit;There+is+no+spoon" alt="Matrix Typing">
 </div>
