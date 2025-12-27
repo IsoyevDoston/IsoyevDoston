@@ -17,7 +17,6 @@ const dido = {
     location: "The Digital Realm",
     school: "School 21 - fidelach@student.21-school.ru",
     fuel: "☕ Coffee",
-    status: "Learning the Matrix secrets"
 };
 ```
 
@@ -79,7 +78,7 @@ const dido = {
 
 ```
 ╔════════════════════════════════════════════╗
-║  🎓 SCHOOL 21 - Matrix Training Academy   ║
+║  🎓 SCHOOL 21 - Training Academy           ║
 ║                                            ║
 ║  Agent ID: fidelach@student.21-school.ru   ║
 ║  Status: Active Learning                   ║
@@ -138,7 +137,7 @@ I'm always excited to work on interesting projects!
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isoyev-doston-a6a59525b)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:packardcod1221@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isoyevdoston1@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IsoyevDoston)
 [![School 21](https://img.shields.io/badge/School_21-000000?style=for-the-badge&logo=42&logoColor=white)](mailto:fidelach@student.21-school.ru)
 
