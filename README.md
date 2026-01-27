@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Welcome+to+the+Matrix...;I+am+Dido+%7C+Neo+of+Code;Wake+up%2C+follow+the+white+rabbit;There+is+no+spoon" alt="Matrix Typing">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Welcome+to+the+Matrix...;Wake+up%2C+follow+the+white+rabbit;There+is+no+spoon" alt="Matrix Typing">
 </div>
 
 <div align="center">
@@ -8,11 +8,11 @@
 
 ---
 
-## 🔴 **The One** - Dido
+## 🔴 **The One**
 
 ```javascript
 const dido = {
-    name: "Dido",
+    name: "David",
     role: "Python Developer | Cloud Explorer",
     location: "The Digital Realm",
     school: "School 21 - fidelach@student.21-school.ru",
