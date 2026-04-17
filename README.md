@@ -36,66 +36,13 @@ const dido = {
 
 </div>
 
----
-
-## 💊 **Currently Learning**
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7qDEq2bMbcbPRQ2c/giphy.gif" width="200" alt="Matrix Code">
-</div>
-
-- 🐍 **Python development** for versatile and efficient solutions
-- 🧠 **Data Science and Machine Learning** - exploring the exciting world
-- 🚀 **Backend development** - building robust systems
-- ☁️ **Cloud technologies** - AWS, Azure, and GCP
-- 🗄️ **Database design** - SQL and PostgreSQL mastery
-
----
-
-## 🔥 **My Projects**
-
-### 🌲 **Forest Fire Prevention** 
-*Hackathon Project*
-
-```
-> Accessing environmental protection protocols...
-> Status: Saving forests with code 🌲
-```
-
-**What it does**: Intelligent forest fire monitoring and prediction system
-
-**Tech Stack**: Python | Machine Learning | Data Analysis
-
-[🔗 **View Project**](https://github.com/IsoyevDoston/ForestFirePrevention)
-
-<div align="center">
-  <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="200" alt="Matrix Loading">
-</div>
-
----
-
-## 🎓 **School 21**
-
-```
-╔════════════════════════════════════════════╗
-║  🎓 SCHOOL 21 - Training Academy           ║
-║                                            ║
-║  Agent ID: fidelach@student.21-school.ru   ║
-║  Status: Active Learning                   ║
-║  Mission: Code Mastery                     ║
-╚════════════════════════════════════════════╝
-```
-
----
-
 ## ☕ **Coffee Status**
 
 <div align="center">
   
 ```
 ☕ Coffee Level: ████████████████████████████████████████ 100%
-🟢 Matrix Connection: ONLINE
-🚀 Ready to Code: YES
+🟢  Connection: ONLINE
 ```
 
 <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="150" alt="Coffee">
@@ -117,8 +64,6 @@ const dido = {
 ---
 
 ## 🤝 **Let's Collaborate**
-
-I'm always excited to work on interesting projects! 
 
 **What I'm looking for:**
 - 🚀 Exciting coding projects
