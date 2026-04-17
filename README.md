@@ -13,7 +13,7 @@
 ```javascript
 const dido = {
     name: "David",
-    role: "Python Developer | Cloud Explorer",
+    role: "Software Engineer",
     location: "The Digital Realm",
     school: "School 21 - fidelach@student.21-school.ru",
     fuel: "☕ Coffee",
