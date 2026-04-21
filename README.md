@@ -6,36 +6,6 @@
   <img src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" width="300" alt="Matrix Digital Rain">
 </div>
 
----
-
-## 🔴 **The One**
-
-```javascript
-const dido = {
-    name: "David",
-    role: "Software Engineer",
-    location: "The Digital Realm",
-    school: "School 21 - fidelach@student.21-school.ru",
-    fuel: "☕ Coffee",
-};
-```
-
----
-
-## ☕ **Coffee Status**
-
-<div align="center">
-  
-```
-☕ Coffee Level: ████████████████████████████████████████ 100%
-🟢  Connection: ONLINE
-```
-
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="150" alt="Coffee">
-
-</div>
-
----
 
 ## 📊 **GitHub Stats**
 
@@ -50,12 +20,6 @@ const dido = {
 ---
 
 ## 🤝 **Let's Collaborate**
-
-**What I'm looking for:**
-- 🚀 Exciting coding projects
-- 🤖 Machine Learning experiments
-- ☁️ Cloud architecture projects
-- 🌍 Impactful applications
 
 <div align="center">
   <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="200" alt="Matrix Collaboration">
@@ -88,8 +52,6 @@ const dido = {
 ║                                                               ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
-
-**Remember**: There is no spoon... only code and coffee! ☕
 
 <img src="https://komarev.com/ghpvc/?username=IsoyevDoston&color=00ff00&style=flat-square&label=MATRIX+VISITORS" alt="Profile Views">
 
