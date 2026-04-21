@@ -1,13 +1,4 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Welcome+to+the+Matrix...;Wake+up%2C+follow+the+white+rabbit;There+is+no+spoon" alt="Matrix Typing">
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" width="300" alt="Matrix Digital Rain">
-</div>
-
-
-## 📊 **GitHub Stats**
+## **GitHub Stats**
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=IsoyevDoston&theme=dark&bg_color=0d1117&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00" alt="Dido's GitHub Stats">
@@ -15,14 +6,6 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsoyevDoston&theme=dark&background=0d1117&stroke=00ff00&ring=00ff00&fire=00ff00&currStreakLabel=00ff00" alt="GitHub Streak">
-</div>
-
----
-
-## 🤝 **Let's Collaborate**
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="200" alt="Matrix Collaboration">
 </div>
 
 ---
