@@ -10,7 +10,7 @@
 
 ---
 
-## 📫 **Connect With Me**
+## **Connect With Me**
 
 <div align="center">
   
