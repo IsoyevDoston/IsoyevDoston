@@ -1,10 +1,6 @@
 ## **GitHub Stats**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IsoyevDoston&theme=dark&bg_color=0d1117&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00" alt="Dido's GitHub Stats">
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsoyevDoston&theme=dark&background=0d1117&stroke=00ff00&ring=00ff00&fire=00ff00&currStreakLabel=00ff00" alt="GitHub Streak">
 </div>
 
