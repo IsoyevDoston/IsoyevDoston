@@ -4,10 +4,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsoyevDoston&theme=dark&background=0d1117&stroke=00ff00&ring=00ff00&fire=00ff00&currStreakLabel=00ff00" alt="GitHub Streak">
 </div>
 
----
-
-## **Connect With Me**
-
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isoyev-doston-a6a59525b)
