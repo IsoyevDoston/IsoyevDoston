@@ -28,7 +28,6 @@
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://komarev.com/ghpvc/?username=IsoyevDoston&color=00ff00&style=flat-square&label=MATRIX+VISITORS" alt="Profile Views">
 
 </div>
 
